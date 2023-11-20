@@ -1,9 +1,9 @@
 {
 	"info": {
-		"_postman_id": "154a53d9-74e8-43d7-b667-17f6f009535c",
+		"_postman_id": "d804ea6d-624f-4a56-8e76-fbd86c7b0928",
 		"name": "lab5",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
-		"_exporter_id": "26613712"
+		"_exporter_id": "31107522"
 	},
 	"item": [
 		{
@@ -125,6 +125,14 @@
 						"qwe_name"
 					]
 				}
+			},
+			"response": []
+		},
+		{
+			"name": "New Request",
+			"request": {
+				"method": "GET",
+				"header": []
 			},
 			"response": []
 		}
